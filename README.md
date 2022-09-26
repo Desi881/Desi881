@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Desi881
-- Here is my story ZF Doom
+- Here is my twine story Zoom Fatigue Doom
 
 <!---
 Desi881/Desi881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
